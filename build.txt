@@ -1,0 +1,3 @@
+displayName = First mod
+author = 作者afasfw
+version = 0.1
